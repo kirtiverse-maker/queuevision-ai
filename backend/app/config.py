@@ -3,6 +3,7 @@ import os
 
 # Addresses the React dev server runs on. Vite uses port 5173 by default.
 ALLOWED_ORIGINS = [
+    "https://queuevision-ai.vercel.app",
     "http://localhost:5173",
     "http://127.0.0.1:5173",
 ]
